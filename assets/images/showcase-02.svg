@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 650">
+  <rect width="1100" height="650" fill="#d9d8d1"/>
+  <path d="M0 325H1100M550 0V650" stroke="#101010" stroke-width="1" opacity=".16"/>
+  <text x="52" y="100" fill="#101010" font-family="monospace" font-size="17" letter-spacing="4">TYPE STUDY / 002</text>
+  <text x="70" y="395" fill="#101010" font-family="Arial,sans-serif" font-size="310" font-weight="700" letter-spacing="-35">Aa</text>
+  <path d="M735 150h260v350H735z" fill="none" stroke="#101010" stroke-width="2"/>
+  <path d="M775 205h180M775 245h140M775 285h160M775 325h100M775 365h160M775 405h135" stroke="#101010" stroke-width="8"/>
+  <circle cx="940" cy="470" r="28" fill="#101010"/>
+  <text x="52" y="600" fill="#4f4f4a" font-family="monospace" font-size="15" letter-spacing="3">PLACEHOLDER — ADD ORIGINAL WORK</text>
+</svg>

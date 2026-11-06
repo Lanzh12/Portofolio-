@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#101010"/>
+  <g fill="none" stroke="#f3f2ed" opacity=".22">
+    <path d="M0 105H1200M0 210H1200M0 315H1200M0 420H1200M0 525H1200M100 0V630M200 0V630M300 0V630M400 0V630M500 0V630M600 0V630M700 0V630M800 0V630M900 0V630M1000 0V630M1100 0V630" stroke-width="1"/>
+    <circle cx="920" cy="315" r="245" stroke-width="2"/>
+    <ellipse cx="920" cy="315" rx="310" ry="115" transform="rotate(-30 920 315)" stroke-width="2"/>
+  </g>
+  <text x="72" y="310" fill="#f3f2ed" font-family="Arial,sans-serif" font-weight="700" font-size="235" letter-spacing="-25">LAMZ.</text>
+  <text x="86" y="382" fill="#aaa9a2" font-family="monospace" font-size="19" letter-spacing="5">DIGITAL CRAFT, BUILT WITH INTENT.</text>
+  <text x="86" y="560" fill="#777771" font-family="monospace" font-size="14" letter-spacing="4">CODE — TYPE — IMAGE</text>
+</svg>
